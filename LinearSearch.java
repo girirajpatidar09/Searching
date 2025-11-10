@@ -20,7 +20,7 @@ public class LinearSearch {
     public static void main(String[] args) {
         Search s1 = new Search();
         int x[]={1,3,5,7,9};
-        System.out.println(s1.search(x,5));
+        System.out.println( s1.search(x,5));
     }
     
 }
